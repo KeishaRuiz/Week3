@@ -1,0 +1,5 @@
+﻿  Week3.cpp
+C:\Users\Keiru\Source\Repos\Week3\Week3.cpp(95,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Keiru\Source\Repos\Week3\Week3.cpp(107,17): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'float', possible loss of data
+C:\Users\Keiru\Source\Repos\Week3\Week3.cpp(116,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Week3.vcxproj -> C:\Users\Keiru\Source\Repos\Week3\x64\Debug\Week3.exe
